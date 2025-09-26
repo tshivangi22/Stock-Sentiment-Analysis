@@ -28,6 +28,14 @@ This project analyzes stock price data using sentiment analysis combined with te
    - Conducted a comprehensive comparison of all three strategies (Original Sentiment, Enhanced Sentiment, and ML-predicted Sentiment).  
    - Evaluated performance using metrics like total returns and holding times.
 
+## Project Files / Notebook Access
+
+- **View in GitHub (may not show outputs):**
+  [Stock Sentiment Analysis Notebook](stock_dsa_ml.ipynb)
+
+- **Download full notebook with outputs (Google Drive link):**
+  [Download Notebook](https://colab.research.google.com/drive/1Akldz5U-EdNMkWAO-7xDyYkRjoG54jag?usp=sharing)
+
 ### Key Results (Approximate)
 
 - Enhanced sentiment strategy outperformed the original sentiment baseline in backtesting.  
