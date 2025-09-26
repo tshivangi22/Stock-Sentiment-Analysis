@@ -31,10 +31,16 @@ This project analyzes stock price data using sentiment analysis combined with te
 ## Project Files / Notebook Access
 
 - **View in GitHub (may not show outputs):**
-  [Stock Sentiment Analysis Notebook](stock_dsa_ml.ipynb)
+  [Stock DSA part Notebook](stock_dsa_ml.ipynb)
 
 - **Download full notebook with outputs (Google Drive link):**
-  [Download Notebook](https://colab.research.google.com/drive/1Akldz5U-EdNMkWAO-7xDyYkRjoG54jag?usp=sharing)
+  [Download/see DSA part Notebook](https://colab.research.google.com/drive/1Akldz5U-EdNMkWAO-7xDyYkRjoG54jag?usp=sharing)
+
+- **View in GitHub (may not show outputs):**
+  [Stock Sentiment Analysis ML part Notebook](ml_part.ipynb)
+
+- **Download full notebook with outputs (Google Drive link):**
+  [Download/see ML part Notebook](https://colab.research.google.com/drive/1JOfGKZeZAqPW13UusHrKa6K21lNILfCN?usp=sharing)
 
 ### Key Results (Approximate)
 
